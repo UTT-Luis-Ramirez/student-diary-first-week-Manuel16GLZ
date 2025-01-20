@@ -1,0 +1,57 @@
+Población: es el conjunto de individuos que comparten una o muchas características en común 
+
+--------------------------------------------------------------------------------------------------------------
+
+Axiones mutuamente excluyente: conjuntos que no pertenecen dentro del mismo conjunto
+
+--------------------------------------------------------------------------------------------------------------
+
+Clasificación de población
+
+población finita: el conjunto de tope o fin aparente
+población infinitas: el conjunto de individuas que es infinito
+
+-----------------------------------------------------------------------------------------------------------------
+
+Muestras: es el conjunto o subconjunto representativo de l población seleccionado para hacer un análisis estadístico y sacar conclusiones de una población mas grande
+
+la muestra debe ser representativa, debe tener un tamaño demostrativo y el ultimo punto para demostrar que nuestra muestra sea de calidad, debe tener diversidad de los datos, ósea no conformarte con la primera búsqueda de datos, se debe profundizar
+
+------------------------------------------------------------------------------------------------------------------
+
+Parámetro: valor numérico que describe una característica de nuestra población
+
+
+Valor estadístico: es un valor calculado a partir de una muestra de una población, se usa para poder sacar los parámetros de una población
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Muestreo: ahí dos tipos de muestreo base
+
+muestreo aleatorio o probabilístico: que cada elemento tenga una misma probabilidad de ser seleccionado para la muestra
+
+
+TIPOS
+
+Muestreo sistemático: nos habla de tener un sistema aleatorio para la elección de los datos
+
+Aleatorio simple: números al azar usando métodos de programación para simular la aleatoriedad
+
+Muestreo de datos estratificados: se basa en dividir nuestro universo en conjuntos o segmentos conocidos como estratos seleccionados proporcionalmente y de cada estrato sacar un elemento aleatorio
+
+Muestreo por conglomerados: se divide la población en varios grupos y luego se selecciona uno de estos grupos para sacar una muestra
+
+-------------------------------------------------------------------------------------------------------------------
+
+Muestreo no probabilístico: son seleccionados según los criterios no aleatorios según el la persona que esta realizando él experimento
+
+
+TIPOS
+
+por conveniencia: se basa en tomar los datos mas convenientes
+
+por juicio: que son basados por el criterio de un experto
+
+Muestreo por cuotas: se selecciona por cuotas con proporciones especificas
+
+Muestral/Bola de nieve: el primer elemento seleccionado elige los elementos consecutivos
