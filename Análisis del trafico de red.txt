@@ -1,0 +1,10 @@
+Análisis del trafico de red
+
+ un administrador de red analiza el trafico generado por direcciones ip en una red empresarial y detecta que el 30% del trafico proviene de una única IP, en conclusión: se descubrió que esa ip corresponde a un ataque DDoS. Al limitar las conexiones desde esa dirección, se estabilizo el trafico de la red
+
+
+Se detecta que el 30% del tráfico total de la red proviene de una única dirección IP lo que es inusual Se detecta que el 30% del tráfico total de la red proviene de una única dirección IP.
+Se debe investigar si dicha IP corresponde a un dispositivo interno, un servicio legítimo o, en cambio, a una fuente externa maliciosa
+
+las acciones que se deberían tomar para evitar otro problema así seria, implementar filtros y monitoreo continuo, así se establecen restricciones para limitar el numero de conexiones o solicitudes permitidas desde esa dirección IP, Se verifique que el trafico de la red vuelva a la normalidad y se continúe monitoreando para detectar posibles reintentos de ataque u otros eventos anómalos
+
